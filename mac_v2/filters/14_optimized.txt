@@ -1,8 +1,8 @@
-! Checksum: w6wCTcOZEcK5w7jCtMKpCTnDl8KrwqnCgsK1
+! Checksum: w6VrwrzDvk1bXsKUwpLDosKAw7U6FUvCgA=
 ! Title: Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:39+00:00
+! TimeUpdated: 2018-02-02T19:25:16+00:00
 ! Expires: 1 day (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};

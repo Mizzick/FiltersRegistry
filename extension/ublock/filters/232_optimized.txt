@@ -1,8 +1,8 @@
-! Checksum: N8O4OcO1FsKIw4PDjcKdw5/ChxwpwqvCnwg
+! Checksum: aW7ClHx0SMKAfGABwrbDuMKCYDYo
 ! Title: KAD - Przekrety
 ! Description: Filtr chroniacy przed przekretami jak np. subskrypcje SMS
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:32+00:00
+! TimeUpdated: 2018-02-02T19:25:10+00:00
 ! Expires: 1 day (update frequency)
 ||20pascals.nl^
 ||24hoursready.cf^

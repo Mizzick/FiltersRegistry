@@ -1,8 +1,8 @@
-! Checksum: NsK4w6B6fsKfZG0Zwo9Gw5zCv2s0w5g
+! Checksum: wqQSw7TDlBBww4XCvkLCkBApw6V0w5jCgg=
 ! Title: Turkish filter
 ! Description: AdGuard Turkish filter. Filter list that specifically removes ads on websites in Turkish language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:38+00:00
+! TimeUpdated: 2018-02-02T19:25:15+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#turkish
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

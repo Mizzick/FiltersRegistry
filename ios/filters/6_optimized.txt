@@ -1,8 +1,8 @@
-! Checksum: w5/DuMOPI8OXwrtnwq57w6Mtw5o2wr8lGg=
+! Checksum: wrx6dz5gMhvDvcK7MX0Jwo8CZ8KB
 ! Title: German filter
 ! Description: EasyList Germany + AdGuard German filter. Filter list that specifically removes ads on websites in German language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:15:05+00:00
+! TimeUpdated: 2018-02-02T19:25:41+00:00
 ! Expires: 1 day (update frequency)
 ||azol.de^$third-party
 ||bambuo.de/img^$third-party

@@ -1,8 +1,8 @@
-! Checksum: OMO2MFzDgWUJwrXCtsK4wpzDlxYCwqFb
+! Checksum: fVpjBMKiw48RPkXCmUxUwoMkd8KL
 ! Title: EasyList
 ! Description: EasyList is the primary subscription that removes adverts from web pages in English language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:32+00:00
+! TimeUpdated: 2018-02-02T19:24:13+00:00
 ! Expires: 1 day (update frequency)
 &act=ads_
 &ad_box_

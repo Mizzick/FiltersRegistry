@@ -1,8 +1,8 @@
-! Checksum: VFrChMKYwpHDrMOgw4rCs27CviB9woLDjMO3
+! Checksum: wptmRi3CsyfCs8OSw6/CjTIWFgF8Sw=
 ! Title: Russian Filter
 ! Description: AdGuard Russian filter. Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:44+00:00
+! TimeUpdated: 2018-02-02T19:25:20+00:00
 ! Expires: 1 day (update frequency)
 !+ NOT_PLATFORM(windows, mac, android)
 ||greencuttlefish.com^$third-party,~xmlhttprequest

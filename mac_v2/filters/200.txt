@@ -1,8 +1,8 @@
-! Checksum: w6Q5fcKww4csPsO+wrYNwpVVPEEDZA=
+! Checksum: XTfCpcO/GMO9wpfCrFhdwqBIwqDDr8OKKw=
 ! Title: ABP Japanese Filters
 ! Description: 日本語
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:03+00:00
+! TimeUpdated: 2018-02-02T19:24:42+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: L1xFZaDP5UQXyARB7kynNA

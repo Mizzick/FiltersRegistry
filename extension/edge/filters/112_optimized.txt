@@ -1,8 +1,8 @@
-! Checksum: SMOdccKcTMOLKRXDpifCizrDlSA2cQ=
+! Checksum: QQkvT8OMw5k6w5JfK8OAw6rChcOOw780
 ! Title: Liste AR
 ! Description: Supplement for EasyList. Language: العربية
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:50+00:00
+! TimeUpdated: 2018-02-02T19:24:29+00:00
 ! Expires: 1 day (update frequency)
 -100x500.gif
 -100x600.gif

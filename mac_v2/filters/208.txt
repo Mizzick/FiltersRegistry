@@ -1,15 +1,15 @@
-! Checksum: RFnDl8KYw5XCrR7ClS3DpsKUAWLDm8O1w6U
+! Checksum: wpEsICLCiz3CnURHcDFuZB9pw7k
 ! Title: Malware Domains
 ! Description: malware protection
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:07+00:00
+! TimeUpdated: 2018-02-02T19:24:45+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: DmpRwe4v1TxLOY/O4XSYRQ
-! OriginalVersion: 201802021911
+! Checksum: sqQVpjv3EHMxDlj4AoIt8w
+! OriginalVersion: 201802021921
 ! This is a list of malware domains generated from malwaredomains.com data.
 ! Homepage: http://malwaredomains.com/?page_id=2
-! Last modified: 02 Feb 2018 19:11 UTC
+! Last modified: 02 Feb 2018 19:21 UTC
 ! Expires: 1d
 !
 ||amazon.co.uk.security-check.ga^

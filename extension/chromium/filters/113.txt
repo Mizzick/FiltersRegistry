@@ -1,12 +1,12 @@
-! Checksum: HBYlKMOnMMKdw4fDh8KnW8OHbwHCvDU
+! Checksum: w6/DuBfCisKUTcKidmPCnsOmw5JtA8Okw5U
 ! Title: Liste FR
 ! Description: français supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:51+00:00
+! TimeUpdated: 2018-02-02T19:24:30+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: 3K52fE37S612+C4kd7OY7Q
-! OriginalVersion: 201802021911
+! Checksum: +xB9Qu3mc5yhLhPTrV0LGg
+! OriginalVersion: 201802021921
 ! Title: Liste FR
 ! Liste FR ~ Filtres francophones complémentaires à EasyList
 ! Expires: 1 days

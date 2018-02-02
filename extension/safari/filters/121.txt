@@ -1,8 +1,8 @@
-! Checksum: K8KAw6MZGMKXw7zDosOyPcKYQmfCuMKgwqo
+! Checksum: w78IwrQsdcOPfcK3wr0vwovChCXCrmHCgQ=
 ! Title: void.gr
 ! Description: ελληνικά supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:57+00:00
+! TimeUpdated: 2018-02-02T19:24:36+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Title: Greek AdBlock Filter

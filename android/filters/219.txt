@@ -1,8 +1,8 @@
-! Checksum: f8OmKsOmRMKwNcOIw5bCisKDwqbDhMKBEMOe
+! Checksum: w7LDi8KpecKxLGcPasKYwrg3P8OhUcKZ
 ! Title: ChinaList+EasyList
 ! Description: China List and Easy List
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:18+00:00
+! TimeUpdated: 2018-02-02T19:24:55+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: vXO2skD37egAcrKzRVhe1A

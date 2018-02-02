@@ -1,8 +1,8 @@
-! Checksum: TWhZPcKkw6NeZGnDtMK0w4xlw7N/w7w
+! Checksum: w6p9V2Ubw67DoMKEwoMDbsKZw6/Cs8KIeg=
 ! Title: Peter Lowe's list
 ! Description: English
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:05+00:00
+! TimeUpdated: 2018-02-02T19:24:43+00:00
 ! Expires: 1 day (update frequency)
 !
 !Ad server list for use with Adblock Plus. Use the following URL to add

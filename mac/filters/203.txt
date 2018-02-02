@@ -1,8 +1,8 @@
-! Checksum: SjYlw7QOw5fCl8K9w6bCuVcGZcOlR8K6
+! Checksum: JcKccB9nwpBFw73DssOVQsOIP8Oow5TCqg=
 ! Title: hufilter
 ! Description: magyar
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:05+00:00
+! TimeUpdated: 2018-02-02T19:24:43+00:00
 ! Expires: 1 day (update frequency)
 !
 !##################### 0000-header.txt #####################

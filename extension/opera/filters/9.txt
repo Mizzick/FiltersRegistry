@@ -1,8 +1,8 @@
-! Checksum: ICEKOm4zLMOdSB8xPH1pw7nCgw=
+! Checksum: wr9gw5g8OlDChXDDrsK4Q8OkaWEDw5I
 ! Title: Spanish/Portuguese filter
 ! Description: AdGuard Spanish/Portuguese filter. Filter list that specifically removes ads on websites in Spanish and Portuguese languages.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:15:09+00:00
+! TimeUpdated: 2018-02-02T19:25:43+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#spanish
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

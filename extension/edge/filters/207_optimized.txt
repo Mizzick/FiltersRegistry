@@ -1,8 +1,8 @@
-! Checksum: XcOZwpINw50hwrEWwo7CpMODRWbClyo4
+! Checksum: bWvDv3bChjkdw6wqLcOBC8O9KMK3w5I
 ! Title: Adblock Warning Removal List
 ! Description: removes anti-adblock warnings and other obtrusive messages
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:06+00:00
+! TimeUpdated: 2018-02-02T19:24:45+00:00
 ! Expires: 1 day (update frequency)
 /deadblocker/*
 /mod_ablockdetector/*

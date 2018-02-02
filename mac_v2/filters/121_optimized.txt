@@ -1,8 +1,8 @@
-! Checksum: dX1IMMOQagPCvMKpVGDDvcOxwrrCjSQ
+! Checksum: wqI1wpTDnUc6wpXCkWPCklbCoMOAw6HCl8OG
 ! Title: void.gr
 ! Description: ελληνικά supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:57+00:00
+! TimeUpdated: 2018-02-02T19:24:36+00:00
 ! Expires: 1 day (update frequency)
 ||www.diaforetiko.gr/wp-content/uploads/2015/03/droidbanner3.gif
 ||skai.gr/Themes/1/Default/Media/Skins/samsung*

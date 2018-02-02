@@ -1,8 +1,8 @@
-! Checksum: F2BNwofDksKkDMKkwoHCn8OaCMOmb1zCug=
+! Checksum: wo/DkcK1wr4GcEHClMKgMMOlw6gHwohow54
 ! Title: ROList
 ! Description: românesc supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:53+00:00
+! TimeUpdated: 2018-02-02T19:24:32+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Title: ROLIST - Romanian Adblock List by MenetZ & Zoso

@@ -1,8 +1,8 @@
-! Checksum: w7HDlMODHsOicFQ2KWIRwrg9wqpzCg=
+! Checksum: FSpGSMOcVMKaPl/DkMKMw4jCmcOzDcOi
 ! Title: Russian Filter
 ! Description: AdGuard Russian filter. Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:44+00:00
+! TimeUpdated: 2018-02-02T19:25:20+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#russian
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -5238,6 +5238,7 @@ news.yandex.by,news.yandex.com,news.yandex.fr,news.yandex.kz,news.yandex.ru,news
 !
 ! Block web-sockets in old versions of Chrome (older then 47)
 !
+! marketgid.com V3
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10512
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10166
 ! https://github.com/AdguardTeam/AdguardFilters/issues/9831
@@ -5371,6 +5372,7 @@ news.yandex.by,news.yandex.com,news.yandex.fr,news.yandex.kz,news.yandex.ru,news
 !-----------------------
 !------- CSS -----------
 !-----------------------
+! https://github.com/AdguardTeam/AdguardFilters/issues/10723
 ! howtogame.ru - удаление брендированного фона, отступа сверху
 ! online-mmo.ru - удаление отступа сверху
 ! zona-film.com - удаление отступа сверху

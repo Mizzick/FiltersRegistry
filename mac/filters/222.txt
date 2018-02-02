@@ -1,8 +1,8 @@
-! Checksum: wqJVXcKdwo3DrMKoU8K4w4Jrw4hzB31I
+! Checksum: DWEpCTl9w6LCr8OdaEcjwqrDicO7w50
 ! Title: Adblock-Persian list
 ! Description: Adblock-Persian list
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:24+00:00
+! TimeUpdated: 2018-02-02T19:25:02+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Contains invalid rules. For example - `-`

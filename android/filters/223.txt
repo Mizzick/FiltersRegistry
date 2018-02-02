@@ -1,8 +1,8 @@
-! Checksum: wqbCsk1AwrEQwr/DmsK6wr1zPykoWcKT
+! Checksum: w54oQcKZw4TClsO8w6FWWE/CmsOwO8O4IQ=
 ! Title: Fanboy's Swedish
 ! Description: Fanboy's Swedish
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:24+00:00
+! TimeUpdated: 2018-02-02T19:25:02+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: JVvv3umt2mwNrLBPUqJ3Ug

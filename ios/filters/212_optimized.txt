@@ -1,8 +1,8 @@
-! Checksum: woQlw4wdS8KrwpRCK1PCp8KvKcOlw7pi
+! Checksum: wr9IwrbCgk7CvEjCukXDtURDwrXDrMKtwqc
 ! Title: RU AdList: Counters
 ! Description: Дополнение против счетчиков
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:09+00:00
+! TimeUpdated: 2018-02-02T19:24:47+00:00
 ! Expires: 1 day (update frequency)
 @@||alcogolizm.com/addons/counter/$script,stylesheet,domain=alcogolizm.com
 @@||amazonaws.com/tsm-images/global/1x1.gif$domain=arcadesushi.com

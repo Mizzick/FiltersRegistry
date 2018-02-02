@@ -1,12 +1,12 @@
-! Checksum: w5jCuAnDssO4wr81EcOGW8O6TMK1PwbCnw=
+! Checksum: woxjTj9KwqYgNcKLwqnCpcOXw4E5G8OK
 ! Title: Liste AR
 ! Description: Supplement for EasyList. Language: العربية
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:13:50+00:00
+! TimeUpdated: 2018-02-02T19:24:29+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: AefPeSFxAe7cCTr8qylftQ
-! OriginalVersion: 201802021910
+! Checksum: 9YaSuCs0wP15zO8o2d+nDA
+! OriginalVersion: 201802021920
 ! Title: Liste AR
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR

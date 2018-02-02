@@ -1,8 +1,8 @@
-! Checksum: LlAsw5JiwqQ1w53CrxbDm8K0wo7DrcKlw6Q
+! Checksum: wpzDscOgwqcZwrYaccOzVcOLw5DDvlIgw6A
 ! Title: Experimental filter
 ! Description: Filter designed to test certain hazardous filtering rules before they are added to the basic filters.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:15:04+00:00
+! TimeUpdated: 2018-02-02T19:25:39+00:00
 ! Expires: 1 day (update frequency)
 /fbevents.js^
 /ads/beacon-

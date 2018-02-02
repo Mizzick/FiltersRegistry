@@ -1,8 +1,8 @@
-! Checksum: wpo3KcKGeE0RJsKnBHjDlkjDnSQN
+! Checksum: w5NhKi7Cj3TDrGtxw53CnXTDsH9Bwro
 ! Title: Fanboy Anti-Facebook List
 ! Description: Warning, will break on facebook-based comment sites and may also break on some facebook apps or games.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:24+00:00
+! TimeUpdated: 2018-02-02T19:25:03+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: bYhCR638WbBG0DQ9kXNQoA

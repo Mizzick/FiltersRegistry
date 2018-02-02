@@ -1,8 +1,8 @@
-! Checksum: woF8MQ3CvCF1Bm4rYsKXw6JoHMOk
+! Checksum: GDcOwrPCsU3CtjNkVMKkZ8OpwrZ8w7Y
 ! Title: Spam404
 ! Description: blocks scam sites
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:09+00:00
+! TimeUpdated: 2018-02-02T19:24:47+00:00
 ! Expires: 1 day (update frequency)
 ##[href^="http://cleanfiles.net/"]
 ##[href^="https://cleanfiles.net/"]

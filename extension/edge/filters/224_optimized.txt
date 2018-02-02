@@ -1,8 +1,8 @@
-! Checksum: w6sLw5UlD8ONwqHDpMKuC8KNOkXDqC3CtA=
+! Checksum: KsKpMGpePivDnsKBwoDClUcza8OUIg=
 ! Title: Korean Adblock List
 ! Description: Korean Adblock List
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:24+00:00
+! TimeUpdated: 2018-02-02T19:25:03+00:00
 ! Expires: 1 day (update frequency)
 ||ams.rmcnmv.naver.com^
 comic.naver.com##div[id^=ppl]

@@ -1,8 +1,8 @@
-! Checksum: TcOzwr80XU8DwoIIZA3CjsOxwrNUw5o
+! Checksum: wrTDmMOQZ8Khw5Fww4DCqEzCnwVjw6/CuC8
 ! Title: Japanese filter
 ! Description: AdGuard Japanese filter. Filter that enables ad blocking on websites in Japanese language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:15:06+00:00
+! TimeUpdated: 2018-02-02T19:25:42+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#japanese
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

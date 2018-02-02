@@ -1,8 +1,8 @@
-! Checksum: w6BAwq1bw51BwpNOwr3CqGLCtSzCqgzCmQ=
+! Checksum: w6RZw7/Co8OTB8OZMMK9wr7DmMK9wrVXw5c8
 ! Title: Social media filter
 ! Description: Filter for social media widgets (Like buttons and such)
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:15:03+00:00
+! TimeUpdated: 2018-02-02T19:25:39+00:00
 ! Expires: 1 day (update frequency)
 ||po.st/share/$script
 ||po.st/static/$third-party

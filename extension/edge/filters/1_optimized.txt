@@ -1,8 +1,8 @@
-! Checksum: wrnChMKcYsKqwrbCgMO5wohfwr4pIH8Pwo8
+! Checksum: IsOWwrXCrFjChSPDusOMwrjDuz3CncKXw7HCrA=
 ! Title: Russian Filter
 ! Description: AdGuard Russian filter. Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:44+00:00
+! TimeUpdated: 2018-02-02T19:25:20+00:00
 ! Expires: 1 day (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};
@@ -2589,6 +2589,7 @@ kttc.ru#%#AG_onLoad(function() { setTimeout(function() { AG_removeElementBySelec
 #%#try { Object.defineProperty(window, 'noAdsAtAll', { get: function() { return true; } }); } catch (ex) {}
 s4galaxy.ru,3dnews.ru,lenovo-smart.ru#%#Object.defineProperty(window, 'SocialMartDocumentHelper', { get: function() { return function SocialMartDocumentHelper(){} } });
 nnm-club.tv,rustorka.com,pise4ka.net,nnm-club.me,nnm-club.ws,nnmclub.to,onlainfilm.ucoz.ua,rutor.is,baskino.club,rutor.info,nnm.me,korzik.net,seasonvar.ru,rsload.net,nnm-club.me,nnmclub.to,rustorka.com,auto.mail.ru,horo.mail.ru,realty.mail.ru,health.mail.ru,afisha.mail.ru,cloud.mail.ru,otvet.mail.ru,pogoda.mail.ru,sport.mail.ru,tv.mail.ru,torg.mail.ru,cars.mail.ru,hi-tech.mail.ru,free-torrent.org,free-torrents.org,ukrinform.ru,radikal.ru,trackeroc.ru,trackerock.ru#%#window.WebSocket = undefined;
+0day.kiev.ua,freerutor.me#%#AG_abortInlineScript(/./, 'MarketGidJSON');
 kinosklad.net#%#AG_abortInlineScript(/./, '_0x446a');
 cinema-hd.tv,nnm-club.lib,nnm-club.tv,nnm-club.name,nnm-club.me,nnmclub.to#%#AG_abortInlineScript(/KGZ1bmN0aW9u/, 'atob');
 online-kinopokaz.ru#%#Object.defineProperty(window, '_0x98a8', { get: function() { return; } });
@@ -2727,6 +2728,7 @@ video.dugkino.ru,oseodaguerord.online,cdnvideonl.com,kino-kingdom.com,video.allh
 api.ekranka.tv,turk-sinema.ru#%#Object.defineProperty(window, 'flashLayerAdShowed', { get: function() { return true; } });
 hdgo.cc#%#Object.defineProperty(window, '$banner_ads', { get: function() { return false; } });
 api.kinomoov.org#%#AG_onLoad(function() { window.flashLayerAdSkipDelay = 1; });
+freerutor.me#$#div[id^="M"][id*="Composite"] { position: absolute!important; left: -3000px!important; }
 howtogame.ru#$#body { background: #000000!important; padding-top: 0!important; }
 online-mmo.ru#$#.fixed { top: auto!important; }
 zona-film.com#$#body { padding-top: 0!important; }

@@ -1,8 +1,8 @@
-! Checksum: WcOnM8K6aVnDtMOVXcKQesKqwr7Cu8Osw7E
+! Checksum: wqPCtMOCw4/CoF0eJmzDqcOkRMOZwpfDrMO8
 ! Title: Xfiles
 ! Description: italiano
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:06+00:00
+! TimeUpdated: 2018-02-02T19:24:44+00:00
 ! Expires: 1 day (update frequency)
 @@||betrad.com/geo/h1.js$domain=corriere.it|gazzetta.it
 @@||betrad.com/pub/c/*.js$domain=corriere.it|gazzetta.it

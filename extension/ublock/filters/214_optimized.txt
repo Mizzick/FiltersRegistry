@@ -1,8 +1,8 @@
-! Checksum: wpTDrMKHAcOWP8OFIUJww7kFH8KCwqfDkw=
+! Checksum: AsOew5XCrcKew6Vxw4HCkHnDksK1Bl/Dk8O4
 ! Title: ABPVN List
 ! Description: vietnamese
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:14+00:00
+! TimeUpdated: 2018-02-02T19:24:51+00:00
 ! Expires: 1 day (update frequency)
 $webrtc,domain=phim14.net|phimotv.net|appvn.com
 .com/cpc/$script

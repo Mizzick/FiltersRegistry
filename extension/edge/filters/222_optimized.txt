@@ -1,8 +1,8 @@
-! Checksum: DsOWeMK5wobCslIAw7QFw6TDlFJrw6Ei
+! Checksum: OMOLw6HCv8KqNcOtw7AKwo1bw68ZBGjCjQ=
 ! Title: Adblock-Persian list
 ! Description: Adblock-Persian list
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:24+00:00
+! TimeUpdated: 2018-02-02T19:25:02+00:00
 ! Expires: 1 day (update frequency)
 .ir/baner
 /banner.js

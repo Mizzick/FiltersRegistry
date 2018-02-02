@@ -1,8 +1,8 @@
-! Checksum: UsO8AzI5SVJbwoxLw7sVw7JSL0Y
+! Checksum: IDccwo0FwrEYbjdDwq90w6cpw5kC
 ! Title: Juvander's Adblock List for Finland
 ! Description: Finnish adblock list
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:14:32+00:00
+! TimeUpdated: 2018-02-02T19:25:10+00:00
 ! Expires: 1 day (update frequency)
 !
 ! OriginalVersion: 20180201
