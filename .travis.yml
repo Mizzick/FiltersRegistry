@@ -10,13 +10,14 @@ script:
     - node index.js
 
 deploy:
-    - provider: releases
-      api_key: $GITHUB_TOKEN
-      file_glob: true
-      file: platforms/*
-      skip_cleanup: true
+    - provider: pages
+      skip-cleanup: true
+      local-dir: platforms
+      github-token: $GITHUB_TOKEN
+      keep-history: true
+      verbose: true
       on:
-        tags: true
+        branch: master
     - provider: pages
       target-branch: travis
       skip-cleanup: true
