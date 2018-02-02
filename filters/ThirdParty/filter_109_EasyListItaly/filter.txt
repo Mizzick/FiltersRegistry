@@ -1,9 +1,9 @@
 !
-! Checksum: VdtTAvxNuHht/95dmnvkWA
-! OriginalVersion: 201802021011
+! Checksum: li47eoaFLJhZObVJuA5qQg
+! OriginalVersion: 201802021941
 ! Title: EasyList Italy
 ! EasyList Italy - Complemento italiano per EasyList
-! Ultima modifica: 02 Feb 2018 10:11 UTC
+! Ultima modifica: 02 Feb 2018 19:41 UTC
 ! Expires: 1 days (frequenza di aggiornamento)
 ! Homepage: https://easylist.to/
 ! Licenza: https://easylist.to/pages/licence.html

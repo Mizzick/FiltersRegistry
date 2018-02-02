@@ -1,6 +1,6 @@
 !
-! Checksum: oeHGRclGJwQXKtJZmgbCtw
-! OriginalVersion: 201802021010
+! Checksum: wdOBXJICwypk9RwzHW19dA
+! OriginalVersion: 201802021940
 ! Title: Liste AR
 ! القائمة العربية لمانع الشرائط الإعلانية آدبلوك بلس
 ! Liste AR ~ Filtres arabes complémentaires à EasyList et à la Liste FR

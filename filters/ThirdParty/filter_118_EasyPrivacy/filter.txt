@@ -1,9 +1,9 @@
 !
-! Checksum: W90WkuAwXltTyUaJcQrbfw
-! OriginalVersion: 201802021011
+! Checksum: 5hEd6N/1MjMeaCv2ulfK1g
+! OriginalVersion: 201802021941
 ! The contents of this filter list are fetched from the EasyPrivacy repository: https://github.com/easylist/easylist/tree/master/easyprivacy
 ! Title: EasyPrivacy
-! Last modified: 02 Feb 2018 10:11 UTC
+! Last modified: 02 Feb 2018 19:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
