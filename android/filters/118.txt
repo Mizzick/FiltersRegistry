@@ -1,15 +1,15 @@
-! Checksum: wpVOw5TDiMO3w7BLwqhoExYkesOGw7hv
+! Checksum: w7/Dv3vCuwTCvnA6UMK2w4k0dmTDlS8
 ! Title: EasyPrivacy
 ! Description: Privacy protection supplement for EasyList.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:08+00:00
+! TimeUpdated: 2018-02-02T19:13:56+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: XLQyBKDIOFnM0SyuxrgYhQ
-! OriginalVersion: 201802021821
+! Checksum: uDfAqvKtcFC6LWUNolTZmg
+! OriginalVersion: 201802021911
 ! The contents of this filter list are fetched from the EasyPrivacy repository: https://github.com/easylist/easylist/tree/master/easyprivacy
 ! Title: EasyPrivacy
-! Last modified: 02 Feb 2018 18:21 UTC
+! Last modified: 02 Feb 2018 19:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

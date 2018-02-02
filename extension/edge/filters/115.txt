@@ -1,14 +1,14 @@
-! Checksum: w4nDrEF1wqAQw6fCr0gwwq/DicKywpNVXA=
+! Checksum: w516DsO+eX4CwqQFIMKKw7dpLcK0wrU
 ! Title: RU AdList
 ! Description: русский, українська supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:06+00:00
+! TimeUpdated: 2018-02-02T19:13:53+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: xb05FOmG/RymPWO8yG75ZQ
-! OriginalVersion: 201802021830
+! Checksum: hwyy3MOTnqHLpgr8Tgevbw
+! OriginalVersion: 201802021910
 ! Title: RU AdList
-! Last modified: 02 Feb 2018 18:30 UTC
+! Last modified: 02 Feb 2018 19:10 UTC
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !
 ! Дополнительная региональная подписка RU AdList к подписке EasyList
@@ -4124,6 +4124,7 @@ _tizers.
 ||d0wnloads.ru^$third-party
 ||d1f5rbi95y1icu.cloudfront.net^
 ||d1p7elpjrt6qav.cloudfront.net^
+||d1uvhm532ipx9t.cloudfront.net^
 ||d1zfhhmz4n1jvq.cloudfront.net^
 ||d24rtvkqjwgutp.cloudfront.net^
 ||d27jk9dqha8met.cloudfront.net^

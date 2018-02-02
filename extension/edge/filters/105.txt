@@ -1,8 +1,8 @@
-! Checksum: CcKpw7Ezw5UXw6RkScKxwoPDu8OTwp7Cn8Kb
+! Checksum: w6PDucKQwrrDlhrDksOWaibDoTHCscKRw7XCsg=
 ! Title: EasyList Czech and Slovak
 ! Description: čeština, slovenčina supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:31:58+00:00
+! TimeUpdated: 2018-02-02T19:13:45+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Homepage: http://adblock.sk

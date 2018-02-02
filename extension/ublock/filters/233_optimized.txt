@@ -1,8 +1,8 @@
-! Checksum: wrBcw7t0X8OIAmJGwqNsTsOKZcKfwpM
+! Checksum: QMOWQsONw57Du8Kawq48OcKqJ8OXWcKNMw=
 ! Title: Juvander's Adblock List for Finland
 ! Description: Finnish adblock list
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:06+00:00
+! TimeUpdated: 2018-02-02T19:14:32+00:00
 ! Expires: 1 day (update frequency)
 /bannerit/*$domain=~www.jhl.fi|~www.karkkainen.com|~www.unisport.fi|~unisport.fi
 /pixel.gif$domain=~www.damnlol.com

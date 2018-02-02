@@ -1,8 +1,8 @@
-! Checksum: w63CjsOAd8KPwqfDicKtwonDmzDDgx9kwr3Dvw=
+! Checksum: wpVtwoQPD1kPwrRbwp1iOMOZVjrChw=
 ! Title: CJX's Annoyance List
 ! Description: CJX's Annoyance List
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:58+00:00
+! TimeUpdated: 2018-02-02T19:14:24+00:00
 ! Expires: 1 day (update frequency)
 =Ad_ZPlusGoods&
 /source/plugin/yw_alertlogin/*

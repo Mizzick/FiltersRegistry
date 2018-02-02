@@ -1,8 +1,8 @@
-! Checksum: w79mw6DDqsOfw5xtwq0pX8KCfsKEwpvDqgU
+! Checksum: w7vDiMO+cMKsVCkwQMKKccK+KsKOwrE2
 ! Title: Experimental filter
 ! Description: Filter designed to test certain hazardous filtering rules before they are added to the basic filters.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:38+00:00
+! TimeUpdated: 2018-02-02T19:15:04+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#experimental
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

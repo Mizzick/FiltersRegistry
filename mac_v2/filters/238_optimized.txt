@@ -1,8 +1,8 @@
-! Checksum: w67DlUE9wr3DjHXCs8O7e3DDmsORaRVW
+! Checksum: ccKGwq/Dpj4RwpDDtcO4w7U3UcOowoHDihk
 ! Title: Adblock & uBlock polish filter - AdGuard supplement
 ! Description: polskie filtry do Adblocka i uBlocka
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:08+00:00
+! TimeUpdated: 2018-02-02T19:14:35+00:00
 ! Expires: 6 hours (update frequency)
 alltube.tv###please-wait-container
 alltube.tv#$##iframe-container { display: block !important; }

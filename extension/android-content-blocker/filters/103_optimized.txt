@@ -1,8 +1,8 @@
-! Checksum: S2/Dr8KaZmvDq8K4w7Vuw5DCosKXw6XCnsO3
+! Checksum: wrnDoMOCBcKiw7EEw5HChcOaw50xLMOMw6bCjw=
 ! Title: Bulgarian list
 ! Description: български supplement for EasyList.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:31:56+00:00
+! TimeUpdated: 2018-02-02T19:13:43+00:00
 ! Expires: 1 day (update frequency)
 /728x90.swf
 AdsClick.php?AdsID=

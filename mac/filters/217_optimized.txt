@@ -1,8 +1,8 @@
-! Checksum: wonDhcO0dj3CtsOawqg3wpZWwq4+wodHSA=
+! Checksum: w5UeNsKrw6ArVj3Cj8Kuw6FAwppcTz4
 ! Title: Adblock & uBlock polish cookies filter
 ! Description: polski filtr cookies
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:49+00:00
+! TimeUpdated: 2018-02-02T19:14:16+00:00
 ! Expires: 1 day (update frequency)
 24jgora.pl###popup
 24opony.pl##.easyNotificationBck

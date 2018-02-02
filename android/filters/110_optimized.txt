@@ -1,8 +1,8 @@
-! Checksum: R8KqwoPDsWRdwoxNw4p5H8Kcw7lzbx4
+! Checksum: wpzCq1x/RzVsVzY2wpXCu8OSwpLDisKR
 ! Title: EasyList Lithuania
 ! Description: lietuvių kalba supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:01+00:00
+! TimeUpdated: 2018-02-02T19:13:48+00:00
 ! Expires: 1 day (update frequency)
 @@||delfi.lt^$generichide
 @@||cosmopolitan.lt^$generichide

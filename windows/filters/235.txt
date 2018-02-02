@@ -1,8 +1,8 @@
-! Checksum: bMKKEcOVw6PCvMKkwpllwr/Dq8Oswq8fdMOT
+! Checksum: aHvCkTnDkcOUwrhETMKGwoHCpDfDpMKoWA=
 ! Title: Iranian filter
 ! Description: Adblock Iran filter
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:08+00:00
+! TimeUpdated: 2018-02-02T19:14:35+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: uZ5htlJu2qcFu5ik6Y4mCg

@@ -1,8 +1,8 @@
-! Checksum: w7bDrSRxCMOkwrvDgsOtwp3Cpy7CssO8wozCgg=
+! Checksum: TsOpIsKBwoPDszFFwrpPwp/DsC3DiiQJ
 ! Title: EasyList Hebrew
 ! Description: Supplement for EasyList. Language: עברית
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:31:59+00:00
+! TimeUpdated: 2018-02-02T19:13:47+00:00
 ! Expires: 1 day (update frequency)
 ||213.8.137.51^
 ||activated.co.il^$third-party

@@ -1,8 +1,8 @@
-! Checksum: w74lKMKnHDbCuw1De8Kaw4rDq3LCjsKb
+! Checksum: w77Cr3s5QgAPwp5iG2rCgkdnwoJQ
 ! Title: Social media filter
 ! Description: Filter for social media widgets (Like buttons and such)
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:37+00:00
+! TimeUpdated: 2018-02-02T19:15:03+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#social
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

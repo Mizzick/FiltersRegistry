@@ -1,8 +1,8 @@
-! Checksum: wotvVcO8w4wSF8KbYjkMASoVw6J4
+! Checksum: w7vDscOzAyRkw6zCtcOJCQTCmzheKcOu
 ! Title: Fanboy's Vietnamese
 ! Description: Fanboy's Vietnamese
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:59+00:00
+! TimeUpdated: 2018-02-02T19:14:25+00:00
 ! Expires: 1 day (update frequency)
 .vn/ads.
 .vn/ads/

@@ -1,8 +1,8 @@
-! Checksum: YDnCviTDo8ObHx9rYsO3wrHCshRVPg=
+! Checksum: F1PDrQvDsjDCuhYpw7NAF8O7wqRvSA=
 ! Title: Fanboy's Swedish
 ! Description: Fanboy's Swedish
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:58+00:00
+! TimeUpdated: 2018-02-02T19:14:24+00:00
 ! Expires: 1 day (update frequency)
 .dt.se/banner/
 .dt.se/img/space.gif?

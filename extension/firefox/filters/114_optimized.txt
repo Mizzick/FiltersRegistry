@@ -1,8 +1,8 @@
-! Checksum: MHNrWcKbwroYFRRsGcOdC2XCscO1
+! Checksum: w6TDqDZlwrLCsj4xwojDgcKxX3nCnGTCsw=
 ! Title: ROList
 ! Description: românesc supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:05+00:00
+! TimeUpdated: 2018-02-02T19:13:53+00:00
 ! Expires: 1 day (update frequency)
 ||01.creativecdn.com^
 ||2mdn.net^

@@ -1,8 +1,8 @@
-! Checksum: MyQ2wrAeGSwNdTEXw4nCv8OBw5gg
+! Checksum: wph+w7bCu8O0w4xUwplTXkV3dQlcwr4
 ! Title: English Filter
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:19+00:00
+! TimeUpdated: 2018-02-02T19:14:46+00:00
 ! Expires: 1 day (update frequency)
 ||mrskin.com^$third-party
 ||pgcode.org^$third-party
@@ -3128,6 +3128,7 @@ hometheater.co.il##div[style="width:728px; height:90px;"]
 @@/walla_vod/*$domain=walla.co.il
 ||cloudfront.net^$third-party,domain=ynet.co.il
 fxp.co.il#@#iframe[width="300"][height="250"]
+@@||adv.fkadb.top/ad_adv.js$domain=calciomercato.com
 cinemalibero.club##a[href][target="__blank"] > img
 filehd.host###container > center > a:not([href*="http://filehd.host/"]) > img
 @@||raiplay.it/dl/advertising/adframe.js

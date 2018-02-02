@@ -1,8 +1,8 @@
-! Checksum: wp5RcmDDtgoZDDBcecKIw7bDrQTDoA=
+! Checksum: w4XDvBRXBcOWEsO1wr4kwqtlwrpWb3o
 ! Title: Estonian List
 ! Description: Estonian filtr
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:49+00:00
+! TimeUpdated: 2018-02-02T19:14:16+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Title: Eesti saitidele kohandatud filter

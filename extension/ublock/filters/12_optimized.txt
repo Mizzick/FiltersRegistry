@@ -1,8 +1,8 @@
-! Checksum: f8KZe8KkPG/CjsKrSErDv8KtOW1xwo0
+! Checksum: O8KGwqjCjSbDl19Icl7Dp8Oiw4jDhMKiwrk
 ! Title: Safari filter
 ! Description: Special filter for Safari 9+ on iOS and Mac OS. We need a separate filter for Safari browser because it does not fully support our rules syntax.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:11+00:00
+! TimeUpdated: 2018-02-02T19:14:38+00:00
 ! Expires: 1 day (update frequency)
 ||adexec.net^$popup
 ||0912701309f8ce.com^$popup

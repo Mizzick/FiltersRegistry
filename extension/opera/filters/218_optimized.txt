@@ -1,8 +1,8 @@
-! Checksum: eMKAwpcvw4nCu07Dr8K5wpcYY2tVcCI
+! Checksum: w7PDhcKeM0nDjzLDksKADcODVH7Cj8OWMg=
 ! Title: Estonian List
 ! Description: Estonian filtr
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:49+00:00
+! TimeUpdated: 2018-02-02T19:14:16+00:00
 ! Expires: 1 day (update frequency)
 ##A[href*="http://pay4results24.eu"]
 ##iframe[src*="cherrystatic.net"]

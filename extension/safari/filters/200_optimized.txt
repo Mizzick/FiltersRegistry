@@ -1,8 +1,8 @@
-! Checksum: Z3bDtsKVKMKbw5MRw5LDpHVGw67CjsOkYg=
+! Checksum: w64Ww47DlDbCv8K4GF4RwpgwwqFfw4c6
 ! Title: ABP Japanese Filters
 ! Description: 日本語
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:15+00:00
+! TimeUpdated: 2018-02-02T19:14:03+00:00
 ! Expires: 1 day (update frequency)
 @@.mp4?*&affiliateid=
 @@/kcsapi/api_*slot$domain=dmm.com

@@ -1,8 +1,8 @@
-! Checksum: wrnDmsOJNX42JcOBw7nDvcKQw7LDp8OEwrjDow=
+! Checksum: KgTCnXHDvjU2wr3Ci2A8w64BGC7Dmg=
 ! Title: ABPVN List
 ! Description: vietnamese
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:46+00:00
+! TimeUpdated: 2018-02-02T19:14:14+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: jsp8A5TT/M3231CQppYVgw

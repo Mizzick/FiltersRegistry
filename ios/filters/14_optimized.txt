@@ -1,8 +1,8 @@
-! Checksum: PMOtw6jDmGwfw6UuWhwsDsOPGsK8wrs
+! Checksum: dBXCghMyB8KswpgyVMKvEMKhw7pMw6Q
 ! Title: Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:12+00:00
+! TimeUpdated: 2018-02-02T19:14:39+00:00
 ! Expires: 1 day (update frequency)
 mail.ru##.grid-down__lcol > div.well.notify
 t-online.de###TbNewsWrap

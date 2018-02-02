@@ -1,8 +1,8 @@
-! Checksum: akB/w4ANbsKFb0/DpmvDrcOiw5PDmMOu
+! Checksum: ZATDhMOyw7fDlsO8w6HDlcOCLCEYEyzDkA=
 ! Title: road-block
 ! Description: Romanian Ad (ROad) filter subscription
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:08+00:00
+! TimeUpdated: 2018-02-02T19:14:35+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Title: ROU: Romanian Ad (ROad) Block List

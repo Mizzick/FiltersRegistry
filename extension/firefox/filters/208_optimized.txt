@@ -1,8 +1,8 @@
-! Checksum: w7N3N8KMBMOyw7LDmTI/a8KUwpLDumvCkA=
+! Checksum: wpPCn8OvR8KNWjXDjMKeYMOhw5fDmEIdBg=
 ! Title: Malware Domains
 ! Description: malware protection
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:18+00:00
+! TimeUpdated: 2018-02-02T19:14:07+00:00
 ! Expires: 1 day (update frequency)
 ||amazon.co.uk.security-check.ga^
 ||autosegurancabrasil.com^

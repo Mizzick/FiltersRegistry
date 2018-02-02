@@ -1,8 +1,8 @@
-! Checksum: w4xIw7QMw44HwpzDthZjFcORPizCjhk
+! Checksum: wpbCmsKeYk7CiQBEfncUwqBJwpcCFQ=
 ! Title: Japanese filter
 ! Description: AdGuard Japanese filter. Filter that enables ad blocking on websites in Japanese language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:40+00:00
+! TimeUpdated: 2018-02-02T19:15:06+00:00
 ! Expires: 1 day (update frequency)
 ||ad.ad-arata.com^$third-party
 ||trafficjp.com^$third-party

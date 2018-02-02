@@ -1,8 +1,8 @@
-! Checksum: BMKoIgbDsMOBwo5ZdMOMbWUqwoUFcA=
+! Checksum: wpdaHQPDrkzDvcKSJsO0DA0KYsKtRw=
 ! Title: Spam404
 ! Description: blocks scam sites
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:22+00:00
+! TimeUpdated: 2018-02-02T19:14:09+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Homepage: http://www.spam404.com/

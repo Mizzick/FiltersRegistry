@@ -1,8 +1,8 @@
-! Checksum: YwXDnRg9P2lmecOxw7zCm8KFUmDDuA=
+! Checksum: EcOrw4Emw5gCC13CtsK1w6bDj8KrKsONwow
 ! Title: RU AdList: BitBlock
 ! Description: Дополнение против мусора
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:43+00:00
+! TimeUpdated: 2018-02-02T19:14:10+00:00
 ! Expires: 1 day (update frequency)
 -tweet.png
 /+1/fastbutton?url=

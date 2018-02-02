@@ -1,14 +1,14 @@
-! Checksum: S8O5ZSRTfkgVf8O3PsO8wojCuUPDow=
+! Checksum: W8K4w5nDtMKVBsOEw4LDqsKzHhsvN3jDkQ=
 ! Title: RU AdList: Counters
 ! Description: Дополнение против счетчиков
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:32:22+00:00
+! TimeUpdated: 2018-02-02T19:14:09+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: FgyLZJSHzyaD9idhPVmX4A
-! OriginalVersion: 201802021830
+! Checksum: xoFkIxFZwozri2pkeB7OWw
+! OriginalVersion: 201802021910
 ! Title: RU AdList: Counters
-! Last modified: 02 Feb 2018 18:30 UTC
+! Last modified: 02 Feb 2018 19:10 UTC
 ! Expires: 5 days (подписка обновляется автоматически каждые 5 дней)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !

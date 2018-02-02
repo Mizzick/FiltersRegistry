@@ -1,8 +1,8 @@
-! Checksum: wo/DgigxF8Ksw6VCwrvDqEAOw4fCv8Khw7Y
+! Checksum: wpEgwr9rfSZIw5Mjw4jClcKPw4FLwozDmA=
 ! Title: xinggsf
 ! Description: One more China filter by
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:00+00:00
+! TimeUpdated: 2018-02-02T19:14:25+00:00
 ! Expires: 1 day (update frequency)
 !
 ! title: 乘风 广告过滤规则

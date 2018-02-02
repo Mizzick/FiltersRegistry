@@ -1,8 +1,8 @@
-! Checksum: LMKIOMOKPcOAw49Jen0Dw6/DgRtFwoM
+! Checksum: wqVWEEPCvsKow6HDqVpCSMKmHcO/w4gd
 ! Title: Russian Filter
 ! Description: AdGuard Russian filter. Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:17+00:00
+! TimeUpdated: 2018-02-02T19:14:44+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#russian
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -7876,9 +7876,9 @@ market.csgo.com##div[class^="banners-"]
 dzvin.news##div[style="width:765px; height:86px;"]
 football-ukraine.com###kinoafishaslider
 ||p-p.com.ua/-/img/banner-bg.jpg
-otzovik.com##.head_at2_no_a
-otzovik.com##.summary_right2
-otzovik.com##div[style="float: left; margin-top: 5px; max-width: 629px;"]
+otzovik.com##.head_at3_no_a
+otzovik.com##.summary_right3
+otzovik.com##div[style="float: left; margin-top: 5px; max-width: 628px;"]
 uniondht.org###oldest_newws > table[width="100%"] > tbody > tr > td:empty+td
 ||zk.fm/b/
 zk.fm##.adv-list-top

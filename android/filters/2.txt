@@ -1,8 +1,8 @@
-! Checksum: H8KGZcO5wpTCtj/DicODw7QiHsOOEcOFwo0
+! Checksum: wrMARMOGwoHCpTUswrlHw4FkSsKHL8Og
 ! Title: English Filter
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T18:33:19+00:00
+! TimeUpdated: 2018-02-02T19:14:46+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#english
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -5490,6 +5490,9 @@ goalim4you.site###f765
 !------------------------------ Italian ------------------------------
 !---------------------------------------------------------------------
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/10837
+@@||adv.fkadb.top/ad_adv.js$domain=calciomercato.com
+calciomercato.com#%#Object.defineProperty(window, 'checkAdBlock', { get: function() { return function(){}; } });
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10275
 cinemalibero.club##a[href][target="__blank"] > img
 cinemalibero.club#$##players { margin-top: auto!important; }
