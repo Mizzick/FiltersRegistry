@@ -17,12 +17,12 @@ deploy:
       keep-history: true
       verbose: true
       on:
-        branch: master
+        branch: server/release
     - provider: pages
-      target-branch: travis
+      target-branch: master
       skip-cleanup: true
       github-token: $GITHUB_TOKEN
       keep-history: true
       verbose: true
       on:
-        branch: master
+        branch: server/release
