@@ -9,7 +9,7 @@ install:
 script:
     - node index.js
     - mkdir out
-    - tar cvzf ./out/platforms.tar.gz -C ./platforms
+    - tar cvzf ./out/platforms.tar.gz ./platforms
 
 deploy:
     provider: pages
