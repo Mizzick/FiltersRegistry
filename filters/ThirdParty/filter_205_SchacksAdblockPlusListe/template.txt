@@ -1,2 +1,0 @@
-!
-@include "http://adblock.dk/block.csv" /exclude="../../exclusions.txt"

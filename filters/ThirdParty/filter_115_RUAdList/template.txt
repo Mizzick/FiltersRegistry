@@ -1,2 +1,0 @@
-!
-@include "https://easylist-downloads.adblockplus.org/advblock.txt" /exclude="../../exclusions.txt"
