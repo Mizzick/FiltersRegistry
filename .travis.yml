@@ -18,3 +18,11 @@ deploy:
     verbose: true
     on:
       branch: master
+    provider: pages
+    target-branch: travis
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN
+    keep-history: true
+    verbose: true
+    on:
+      branch: master
