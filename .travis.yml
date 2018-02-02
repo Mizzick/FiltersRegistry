@@ -8,12 +8,10 @@ install:
 
 script:
     - node index.js
-    - mkdir out
-    - tar czf ./out/platforms.tar.gz ./platforms
 
 deploy:
     provider: pages
-    local-dir: out
+    local-dir: platforms
     skip-cleanup: true
     github-token: $GITHUB_TOKEN
     keep-history: true
