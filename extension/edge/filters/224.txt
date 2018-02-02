@@ -1,8 +1,8 @@
-! Checksum: G3MbOT0XVsK/wqVQw7jDoEjDojnCiw=
+! Checksum: wpvCtWVxA8OSLmDCphPCoFAhwpzCr8Om
 ! Title: Korean Adblock List
 ! Description: Korean Adblock List
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:03+00:00
+! TimeUpdated: 2018-02-02T19:43:21+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Title: Korean Adblock List

@@ -1,8 +1,8 @@
-! Checksum: w5Ykw57DjMKKwpsjw4x8XE0owpsnVQ8
+! Checksum: IBjDvcKUwr1gDsKgwoQ9SSgew4Vzwp8
 ! Title: BarbBlock
 ! Description: BarbBlock is a content blocking list with standalone browser extensions for Chrome and Firefox. It blacklists sites which have used DMCA takedowns to force removal from other content blocking lists. Such takedowns are categorically invalid, but they can be effective at intimidating small open-source projects into compliance.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:12+00:00
+! TimeUpdated: 2018-02-02T19:43:31+00:00
 ! Expires: 6 hours (update frequency)
 ||functionalclam.com^
 ||119.29.196.104.bc.googleusercontent.com^

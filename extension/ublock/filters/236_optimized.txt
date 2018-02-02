@@ -1,8 +1,8 @@
-! Checksum: w6hxw5RnF08RwrdVAkHCoEErBsOg
+! Checksum: wqhBLFfCuHjDlxHDp8Orw5TCigLCgsOwAQ=
 ! Title: road-block
 ! Description: Romanian Ad (ROad) filter subscription
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:11+00:00
+! TimeUpdated: 2018-02-02T19:43:31+00:00
 ! Expires: 1 day (update frequency)
 /adblock.js
 /plugins/footer-pop-up-banner/*

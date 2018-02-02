@@ -1,8 +1,8 @@
-! Checksum: w5JDAcKxwqbCo8Kpw7/DoE3Cu33ClFwGIw=
+! Checksum: A8ODacO8FsOFwoTCkcOIw6lEw6fClHrCl8O3
 ! Title: French filter
 ! Description: Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:18+00:00
+! TimeUpdated: 2018-02-02T19:43:35+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#french
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

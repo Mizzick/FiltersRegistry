@@ -1,8 +1,8 @@
-! Checksum: w5k+PzjDmsKiw6BjwrjDncOZw7jDrULDpcOQ
+! Checksum: wp8dw7NbH8O2w6jDnMKjwooXAMKpwrBCwoQ
 ! Title: Fanboy's Anti-thirdparty Fonts
 ! Description: A filter to block third-party fonts. (May break the look and design of some websites)
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:12+00:00
+! TimeUpdated: 2018-02-02T19:43:31+00:00
 ! Expires: 6 hours (update frequency)
 !
 ! Checksum: pOLlftC1ydYbP/btTkmxtw

@@ -1,8 +1,8 @@
-! Checksum: FDvCjTbCpyTCq2/CnMKew5BpGkBtwoY
+! Checksum: LU8tAw7ClsOrJFpgw5FHw5nDiMKxw7M
 ! Title: Easylist Spanish
 ! Description: EasyList Spanish filter subscription
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:09+00:00
+! TimeUpdated: 2018-02-02T19:43:28+00:00
 ! Expires: 1 day (update frequency)
 /advertisements?
 /banner-publi-lateral.gif

@@ -1,8 +1,8 @@
-! Checksum: f8OpAsOewrzDpsOJHnPCqsOvQMOLaHo5
+! Checksum: w585w4vCocKdwqXCncKZVyVnwo9pwqp6aw=
 ! Title: Annoyances filter
 ! Description: Blocks irritating elements on web pages including cookie notices, third-party widgets and in-page pop-ups.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:16+00:00
+! TimeUpdated: 2018-02-02T19:43:33+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#annoyances
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

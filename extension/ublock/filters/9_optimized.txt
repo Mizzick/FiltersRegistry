@@ -1,8 +1,8 @@
-! Checksum: w4DDsVMRw7BUBgYiZMOEwpBww6fCn3E
+! Checksum: ZcOrwoHDu8Kiwq7Dk2jDisO6w7jCicO3V8OFw70
 ! Title: Spanish/Portuguese filter
 ! Description: AdGuard Spanish/Portuguese filter. Filter list that specifically removes ads on websites in Spanish and Portuguese languages.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:43+00:00
+! TimeUpdated: 2018-02-02T19:44:00+00:00
 ! Expires: 1 day (update frequency)
 ||lojapremio.com.br^$third-party
 ||comandosfilmes.org^$third-party

@@ -1,8 +1,8 @@
-! Checksum: R8Odw51gw4LCksK4eMKiCsOcwpbDmnxcw7s
+! Checksum: w7zCmGDChSbDkj1vWsO/SMOFw7zCv2DDlQ=
 ! Title: Turkish filter
 ! Description: AdGuard Turkish filter. Filter list that specifically removes ads on websites in Turkish language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:15+00:00
+! TimeUpdated: 2018-02-02T19:43:33+00:00
 ! Expires: 1 day (update frequency)
 ||ambelbet.com^$third-party
 ||smopy.com^$third-party

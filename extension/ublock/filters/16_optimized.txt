@@ -1,8 +1,8 @@
-! Checksum: w58zwpgKB8KXTMK8BX3Ds0jDoMOFwr3Cuw=
+! Checksum: wp5rQcKXSgBJf3zDhAQcwqfCpcOjdw=
 ! Title: French filter
 ! Description: Liste FR + AdGuard French filter. Filter list that specifically removes ads on websites in French language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:18+00:00
+! TimeUpdated: 2018-02-02T19:43:35+00:00
 ! Expires: 1 day (update frequency)
 grazia.fr,tsa-algerie.com,reponsesphoto.fr,eclypsia.com#$#.pub_300x250.pub_300x250m.pub_728x90.text-ad.textAd.text_ad.text_ads.text-ads.text-ad-links {display:block!important;}
 @@||jzrputtbut.net/about:blank

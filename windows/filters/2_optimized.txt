@@ -1,8 +1,8 @@
-! Checksum: JHgcalY6w55Kw4XCinJJcAXDmys
+! Checksum: w5BAWsKPwrxqwoLDh8O2OEDDlFd1TcOn
 ! Title: English Filter
 ! Description: EasyList + AdGuard English filter. This filter is necessary for quality ad blocking.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:22+00:00
+! TimeUpdated: 2018-02-02T19:43:39+00:00
 ! Expires: 1 day (update frequency)
 #%#var AG_onLoad=function(func){if(document.readyState==="complete"||document.readyState==="interactive")func();else if(document.addEventListener)document.addEventListener("DOMContentLoaded",func);else if(document.attachEvent)document.attachEvent("DOMContentLoaded",func)};
 #%#var AG_removeElementById = function(id) { var element = document.getElementById(id); if (element && element.parentNode) { element.parentNode.removeChild(element); }};

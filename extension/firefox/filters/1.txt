@@ -1,8 +1,8 @@
-! Checksum: WmHDkcK2M8KFRsO9wocZI8KLw6rDvGfDuw=
+! Checksum: w4BDw7rCq2xFwqLCg8K/w6vCm8ONwrtowqd1
 ! Title: Russian Filter
 ! Description: AdGuard Russian filter. Filter that enables ad blocking on websites in Russian language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:20+00:00
+! TimeUpdated: 2018-02-02T19:43:38+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#russian
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -7726,6 +7726,10 @@ Ly9hbi55YW5kZXgucnUv
 !
 ||avtovzglyad.ru/*/*/*/*/*/*/*/*/*/*/*/*/*/*/$script
 !
+forum.ixbt.com##.b_footer_wrap
+forum.ixbt.com##.vertb
+forum.ixbt.com##td[align="center"] > div.horb
+forum.ixbt.com##.b_ftr
 bestfree.ru###adblock_square
 howtogame.ru##.branding-link-wrapper
 animaunt.ru##.rkl-box
@@ -14519,6 +14523,7 @@ pornolab.lib,new-team.org,pornolab.biz,pornolab.cc,pornolab.net##table.attach.bo
 !
 !
 ! START: rustorka.com
+||rustorka.com/1xb.gif
 ://*.rumedia.ws^$empty,domain=~rumedia.ws
 rustorka.lib,rustorka.com###logo a[href*="gearbest.com/"]
 rustorka.com##div[align="center"] > a > img

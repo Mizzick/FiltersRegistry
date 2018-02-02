@@ -1,8 +1,8 @@
-! Checksum: KB5cw4nCo8OxMAPDhsKOL2habF7Dgg=
+! Checksum: LT/DqgMkID9/wrfClFXChlvCjsOhSg=
 ! Title: Mobile Ads filter
 ! Description: Filter for all known mobile ad networks. Useful for mobile devices.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:14+00:00
+! TimeUpdated: 2018-02-02T19:43:33+00:00
 ! Expires: 1 day (update frequency)
 ||banners-slb.mobile.yandex.net^
 ||banners.mobile.yandex.net^

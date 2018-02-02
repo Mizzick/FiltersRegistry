@@ -1,8 +1,8 @@
-! Checksum: IsK6BwcxGcOlaz88wqTDn8KAOcKHSA=
+! Checksum: SMK3UUvDrMOmKUTCiX3CjyDCjX0Nw40
 ! Title: Adblock & uBlock polish filter
 ! Description: polski filtr
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:53+00:00
+! TimeUpdated: 2018-02-02T19:43:11+00:00
 ! Expires: 1 day (update frequency)
 /_adv/*
 /adv/*$image

@@ -1,8 +1,8 @@
-! Checksum: JgTDnijCgi3CqcKPwonClCxCw6BnJQI
+! Checksum: JMK/IMKJwr3Cg2cUwrzCg2DCljfDiGxX
 ! Title: I don't care about cookies
 ! Description: I don't care about cookies
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:04+00:00
+! TimeUpdated: 2018-02-02T19:43:22+00:00
 ! Expires: 1 day (update frequency)
 ###sliding-popup:not(body):not(html)
 ###cookie_bar_top:not(body):not(html)

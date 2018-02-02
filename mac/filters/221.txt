@@ -1,8 +1,8 @@
-! Checksum: DWbDhsOXGDXCnBQvw7rCk0B/wp/DtsKy
+! Checksum: wqdjwrnCtUFiwozCtmQfKcOMwrl0dkU
 ! Title: Polski social filtr
 ! Description: Polski social filtr
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:02+00:00
+! TimeUpdated: 2018-02-02T19:43:20+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: frqjt8n7DJ39QNgPkupQtw

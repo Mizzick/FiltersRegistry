@@ -1,8 +1,8 @@
-! Checksum: YRXDtsOtwqYzw7AtTsKVBzciIsKFw4w
+! Checksum: HcO2w6fDucKtwqrDmWfDjlJ/WUDDtUsz
 ! Title: Simplified domain names filter
 ! Description: Filter composed from several other filters (English filter, Social media filter, Spyware filter, Mobile Ads filter, EasyList and EasyPrivacy) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:17+00:00
+! TimeUpdated: 2018-02-02T19:43:34+00:00
 ! Expires: 1 day (update frequency)
 ||rnuhavi.ru^
 ||khudagi.info^

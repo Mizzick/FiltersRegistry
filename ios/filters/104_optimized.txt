@@ -1,8 +1,8 @@
-! Checksum: wqfDpsKCSShww5fDlgbDhcORasKROcO2bA=
+! Checksum: BUjCvytGw5dbw6/DmsOBWcKkSHjDlcOZ
 ! Title: EasyList China
 ! Description: 中文 supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:24+00:00
+! TimeUpdated: 2018-02-02T19:42:39+00:00
 ! Expires: 1 day (update frequency)
 -1688-wp-media/ads/
 .cc/js/ads/

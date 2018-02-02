@@ -1,8 +1,8 @@
-! Checksum: PsOJw7fCtGlhw6HCh0ckQF9EwptKw5A
+! Checksum: wqQ4w5h/UzXDuwEHwpR5csOdeDrDsA=
 ! Title: ChinaList+EasyList
 ! Description: China List and Easy List
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:55+00:00
+! TimeUpdated: 2018-02-02T19:43:13+00:00
 ! Expires: 1 day (update frequency)
 /vali\.cp31\.ott\.cibntv\.net\/youku\/[0-9,a-f,\/,A-F,-]+\.mp4\?/
 ||l.youku.com/rec_ad_show?

@@ -1,8 +1,8 @@
-! Checksum: w4jDm8Kqw7/DjsOIwrzDvcKzcFQRw7E/woRZ
+! Checksum: BwREwpzChCgZwqrDhU3DtzzCnFzCnGA
 ! Title: Fanboy's Social Blocking List
 ! Description: removes social media integration — supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:41+00:00
+! TimeUpdated: 2018-02-02T19:42:56+00:00
 ! Expires: 1 day (update frequency)
 !
 ! OriginalVersion: 201802021107

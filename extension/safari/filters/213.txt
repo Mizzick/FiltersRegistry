@@ -1,14 +1,14 @@
-! Checksum: CMKkPF3DlMO4wrDCq8KCwrVGABoHwqTCuA=
+! Checksum: w6gdIhDDs8OZw7Jrwp7CtMOJOsKew7zDgiE
 ! Title: RU AdList: BitBlock
 ! Description: Дополнение против мусора
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:48+00:00
+! TimeUpdated: 2018-02-02T19:43:06+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: IywbSpYgDTS2xpZ4zl2Nvw
-! OriginalVersion: 201802021920
+! Checksum: Yic5Avex6s2I72PiX6RKIQ
+! OriginalVersion: 201802021940
 ! Title: RU AdList: BitBlock
-! Last modified: 02 Feb 2018 19:20 UTC
+! Last modified: 02 Feb 2018 19:40 UTC
 ! Expires: 5 days (подписка обновляется автоматически каждые 5 дней)
 ! Homepage: https://forums.lanik.us/viewforum.php?f=102
 !

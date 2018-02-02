@@ -1,8 +1,8 @@
-! Checksum: wrfCp1jDun7CucOpZsOmVcKmw6JBw50iw4A
+! Checksum: CMKbw7dIdXPCjMKDwqxxEsOHFcKhw5vDvg=
 ! Title: List-KR
 ! Description: Filter that enables removing of ads, trackers, and various scripts from websites with Korean content. Based on Corset, Korean Adblock filter, Youslist. Combined and augmented with AdGuard-specific rules for enhanced filtering This filter is expected to be used alongside with English filter.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:03+00:00
+! TimeUpdated: 2018-02-02T19:43:22+00:00
 ! Expires: 1 day (update frequency)
 .co.kr/ad/
 /about_*_shopbox.

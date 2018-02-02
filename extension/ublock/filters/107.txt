@@ -1,8 +1,8 @@
-! Checksum: e01MDXvCkcKNZMKXwpjCtDoKfFIG
+! Checksum: w5sewqxlIsKdeMKwwpl/VsKmwq5IwpJC
 ! Title: EasyList Germany
 ! Description: Deutsch supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:26+00:00
+! TimeUpdated: 2018-02-02T19:42:41+00:00
 ! Expires: 1 day (update frequency)
 !
 ! OriginalVersion: 201801311758

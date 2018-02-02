@@ -1,8 +1,8 @@
-! Checksum: w40PRzAEw5IbRMOYwrt8w4bCpsKLwqzCrw=
+! Checksum: w7fCiMOaaV42MFopRsO8dg7Du8KSwoc
 ! Title: Adblock & uBlock polish filter - AdGuard supplement
 ! Description: polskie filtry do Adblocka i uBlocka
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:12+00:00
+! TimeUpdated: 2018-02-02T19:43:31+00:00
 ! Expires: 6 hours (update frequency)
 !
 ! Checksum: i6LntHrVx1Owfg8AGrxoyw

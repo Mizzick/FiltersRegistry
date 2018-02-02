@@ -1,8 +1,8 @@
-! Checksum: w5/CjMKEwq1KwrUZIcO9w7gdbUfDs8KyTw=
+! Checksum: E2bCmyXCscKEw7fDq8OLBDoAw59vDMKw
 ! Title: Latvian List
 ! Description: latviešu valoda supplement for EasyList
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:24:29+00:00
+! TimeUpdated: 2018-02-02T19:42:44+00:00
 ! Expires: 1 day (update frequency)
 !
 ! Checksum: KjjPVVMK//F3u1U1/KLWWg

@@ -1,14 +1,14 @@
-! Checksum: SVrDl3JWKSokAsO7w70LfA7DjsOz
+! Checksum: O8OWw5jDmMKiw6/DpsKqXcOqwqlfJ8OlQ1E
 ! Title: Easylist Spanish
 ! Description: EasyList Spanish filter subscription
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:09+00:00
+! TimeUpdated: 2018-02-02T19:43:28+00:00
 ! Expires: 1 day (update frequency)
 !
-! Checksum: jMGRefuzGT5l1JuiEhihrQ
-! OriginalVersion: 201802021921
+! Checksum: qVSCg+W4satSCkBwvBI3AQ
+! OriginalVersion: 201802021941
 ! Title: EasyList Spanish
-! Last modified: 02 Feb 2018 19:21 UTC
+! Last modified: 02 Feb 2018 19:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html

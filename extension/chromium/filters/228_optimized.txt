@@ -1,8 +1,8 @@
-! Checksum: D8O0HMKWwoZVDW/DryUUw6PDnlkEw5Y
+! Checksum: BMOKwp3DncOGwod+HDrCgDXCoXTCixnCrA=
 ! Title: xinggsf
 ! Description: One more China filter by
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:04+00:00
+! TimeUpdated: 2018-02-02T19:43:22+00:00
 ! Expires: 1 day (update frequency)
 @@*$stylesheet
 @@*/jquery.$script

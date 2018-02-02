@@ -1,8 +1,8 @@
-! Checksum: HRzCsDs0SBzCpXUZwoHDr0tAYMO4
+! Checksum: GMKmw5HDigosTsKNNTnDqMKoS3EiIQ=
 ! Title: Dutch filter
 ! Description: EasyList Dutch + AdGuard Dutch filter. Filter list that specifically removes ads on websites in Dutch language.
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:42+00:00
+! TimeUpdated: 2018-02-02T19:43:59+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#dutch
 ! License: http://creativecommons.org/licenses/by-sa/3.0/

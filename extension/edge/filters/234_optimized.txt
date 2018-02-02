@@ -1,8 +1,8 @@
-! Checksum: PMO/wocxWDnCryDDq8KjwrTCh1VuC8OK
+! Checksum: wonCkcOOw5BVw53CnQvDtsOMw68oJ3pFCg=
 ! Title: ROLIST2
 ! Description: This is a complementary list for RoList with annoyances that are not necessarily banners
 ! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:25:11+00:00
+! TimeUpdated: 2018-02-02T19:43:31+00:00
 ! Expires: 1 day (update frequency)
 @@||homebank.ro^$~third-party
 @@||s.iw.ro^
