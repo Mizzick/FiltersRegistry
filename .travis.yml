@@ -8,3 +8,14 @@ install:
 
 script:
     - node index.js
+    - mkdir out
+    - tar -cf ./out/platforms.tar -C ./platforms .
+
+deploy:
+    provider: pages
+    local-dir: out
+    skip-cleanup: true
+    github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+    keep-history: true
+    on:
+      branch: master
