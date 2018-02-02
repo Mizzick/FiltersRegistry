@@ -17,7 +17,7 @@ deploy:
       keep-history: true
       verbose: true
       on:
-        branch: server/release
+        branch: release
     - provider: pages
       target-branch: master
       skip-cleanup: true
@@ -25,4 +25,4 @@ deploy:
       keep-history: true
       verbose: true
       on:
-        branch: server/release
+        branch: release
