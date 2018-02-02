@@ -1,0 +1,10 @@
+language: bash
+
+node_js:
+    - "9.5"
+
+install:
+    - npm install -g node-qunit-phantomjs
+
+script:
+    - node index.js
