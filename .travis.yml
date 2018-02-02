@@ -4,7 +4,7 @@ node_js:
     - "9.5"
 
 install:
-    - npm install -g node-qunit-phantomjs
+    - npm install
 
 script:
     - node index.js
