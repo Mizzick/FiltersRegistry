@@ -21,3 +21,7 @@ deploy:
       verbose: true
       on:
         branch: master
+    - provider: script
+      script: push.sh
+      on:
+        branch: master
