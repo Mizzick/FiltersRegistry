@@ -1,8 +1,8 @@
-! Checksum: w55+wqkPFsKYw7PCkx1KS8KRwrgHwoN1
+! Checksum: w5huwq3CocOBGcKFAC7ClUNmFiU4LQ=
 ! Title: Spyware filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
-! Version: 2.0.0.20
-! TimeUpdated: 2018-02-02T19:43:55+00:00
+! Version: 2.0.0.21
+! TimeUpdated: 2018-02-06T10:04:03+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#privacy
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
@@ -83,6 +83,7 @@ journal-plaza.net##.rightside div.block.bnavi[-ext-has="h3.dtitle:contains(Сч�
 ! Should be uncommented once v2.10 goes live
 ! ||app-measurement.com^
 !
+||excpm.com^$third-party
 ||stats.walytics.com^$third-party
 ||logging.carambo.la^
 ||antvoice.com^$third-party
@@ -4230,6 +4231,7 @@ link.gmapp*.net$image
 ||get35.com^$domain=avgle.com
 ||bluekai.com^$domain=avgle.com
 !
+||rt.chip.de/collect
 ||eventcom.api.np.km.playstation.net/event^
 ||kocaeligazetesi.com.tr/stats/
 ||gazetevatan.com/d/generic-counter.asp^
@@ -4288,7 +4290,6 @@ hdfilmizle8.com##iframe[src^="https://api.hdfilmizle8.com/my.php"]
 ||xgaytube.com/stats.js
 ||boy18tube.com/analytics.js
 ||klops.ru/ahoy/
-||izlesene.com/js/site/iStat.js
 ||a.europaplus.ru/*/event?p2=
 ||morhipo.com/Shared/AnalyticsJS^
 ||assia.tv/css/stat.js
@@ -5201,6 +5202,16 @@ dreamprogs.net##td[width="88"][height="31"]
 !-------------- Whitelist ------------------------------------------------------!
 !-------------------------------------------------------------------------------!
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/11050
+@@||trc.taboola.com/msn-msn/*$domain=msn.com
+@@||cdn.taboola.com/libtrc^$domain=msn.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/10975
+@@||ng.virgul.com/pageview^$domain=izlesene.com
+@@||ng.virgul.com/js^$domain=izlesene.com
+! https://github.com/AdguardTeam/AdguardFilters/issues/10897
+@@||omtrdc.net^*/mbox/ajax?$script,other,domain=canadiantire.ca
+! https://github.com/AdguardTeam/AdguardFilters/issues/10847
+@@||freegeoip.net/json/|$domain=mudwars.io
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10122
 @@||googletagmanager.com/gtm.js^$domain=raiplay.it
 ! https://github.com/AdguardTeam/AdguardFilters/issues/10776
