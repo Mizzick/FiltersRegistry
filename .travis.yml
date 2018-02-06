@@ -11,6 +11,8 @@ script:
 
 after_success:
     - /bin/bash push.sh
+    on:
+      branch: master
 
 deploy:
     - provider: pages
