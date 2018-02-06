@@ -9,9 +9,6 @@ install:
 script:
     - node index.js
 
-after_success:
-    - /bin/bash push.sh
-
 deploy:
     - provider: pages
       skip-cleanup: true
