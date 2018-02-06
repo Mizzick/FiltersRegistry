@@ -12,7 +12,8 @@ commit_files() {
 }
 
 upload_files() {
-  git push origin HEAD:master
+  git remote add github https://${GITHUB_TOKEN}@github.com/Mizzick/FiltersRegistry.git
+  git push github HEAD:master
 }
 
 setup_git
