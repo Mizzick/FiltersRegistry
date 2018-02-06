@@ -12,7 +12,7 @@ commit_files() {
 }
 
 upload_files() {
-  git push
+  git push origin HEAD:master
 }
 
 setup_git
