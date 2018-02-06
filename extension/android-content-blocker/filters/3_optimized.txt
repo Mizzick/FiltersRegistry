@@ -1,8 +1,8 @@
-! Checksum: UMKnw4lvw5LCkD7DoMOhBS44Sk7DkwE
+! Checksum: wqHCn8OAVcOxw7bDj8Ocw43DusK7NTRHG2E
 ! Title: Spyware filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
 ! Version: 2.0.0.21
-! TimeUpdated: 2018-02-06T10:04:03+00:00
+! TimeUpdated: 2018-02-06T10:06:47+00:00
 ! Expires: 1 day (update frequency)
 ###qoo-counter
 ###ramblerCounter

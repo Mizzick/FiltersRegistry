@@ -27,7 +27,7 @@
 			"groupId": 3,
 			"subscriptionUrl": "https://ssl.bblck.me/blacklists/adblock-plus.txt",
 			"version": "2.0.0.21",
-			"timeUpdated": "2018-02-06T10:04:02+00:00",
+			"timeUpdated": "2018-02-06T10:06:45+00:00",
 			"languages": []
 		},
 		{
@@ -40,7 +40,7 @@
 			"groupId": 1,
 			"subscriptionUrl": "https://filters.adtidy.org/extension/chromium/filters/3.txt",
 			"version": "2.0.0.21",
-			"timeUpdated": "2018-02-06T10:04:03+00:00",
+			"timeUpdated": "2018-02-06T10:06:47+00:00",
 			"languages": []
 		}
 	]
