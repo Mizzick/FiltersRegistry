@@ -1,8 +1,8 @@
-! Checksum: RsOtw7x0wqINK07CgFLDt8KIwrLCnEZ7
+! Checksum: wonDjUQJMHnDscK/MiNFw745SHEx
 ! Title: Spyware filter
 ! Description: The most comprehensive list of various online counters and web analytics tools. Use this filter if you do not want your actions on the Internet to be tracked.
 ! Version: 2.0.0.21
-! TimeUpdated: 2018-02-06T10:18:40+00:00
+! TimeUpdated: 2018-02-06T10:20:54+00:00
 ! Expires: 1 day (update frequency)
 ! Homepage: http://adguard.com/filters.html#privacy
 ! License: http://creativecommons.org/licenses/by-sa/3.0/
