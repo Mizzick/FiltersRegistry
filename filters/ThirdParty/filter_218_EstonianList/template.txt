@@ -1,2 +1,0 @@
-!
-@include "http://adblock.ee/list.php" /exclude="../../exclusions.txt"

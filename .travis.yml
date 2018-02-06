@@ -9,6 +9,9 @@ install:
 script:
     - node index.js
 
+after_success:
+    - push.sh
+
 deploy:
     - provider: pages
       skip-cleanup: true
@@ -17,12 +20,4 @@ deploy:
       keep-history: true
       verbose: true
       on:
-        branch: release
-    - provider: pages
-      target-branch: master
-      skip-cleanup: true
-      github-token: $GITHUB_TOKEN
-      keep-history: true
-      verbose: true
-      on:
-        branch: release
+        branch: master

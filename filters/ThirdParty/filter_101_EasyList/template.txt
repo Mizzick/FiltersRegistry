@@ -1,2 +1,0 @@
-!
-@include "https://easylist.github.io/easylist/easylist.txt" /exclude="../../exclusions.txt"

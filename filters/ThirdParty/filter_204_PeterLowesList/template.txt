@@ -1,2 +1,0 @@
-!
-@include "http://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&mimetype=plaintext" /exclude="../../exclusions.txt"

@@ -1,2 +1,0 @@
-!
-@include "https://easylist.github.io/easylist/fanboy-annoyance.txt" /exclude="../../exclusions.txt"

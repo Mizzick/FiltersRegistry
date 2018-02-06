@@ -1,2 +1,0 @@
-!
-@include "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/ABP-FX.txt" /exclude="../../exclusions.txt"

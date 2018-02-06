@@ -1,2 +1,0 @@
-!
-@include "http://margevicius.lt/easylistlithuania.txt" /exclude="../../exclusions.txt"

@@ -1,2 +1,0 @@
-!
-@include "http://adblock.gardar.net/is.abp.txt" /exclude="../../exclusions.txt"

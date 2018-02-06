@@ -1,2 +1,0 @@
-!
-@include "http://abpvn.com/filter/abpvn-bqcLEp.txt" /exclude="../../exclusions.txt"
