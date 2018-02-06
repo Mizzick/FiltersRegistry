@@ -6,7 +6,6 @@ setup_git() {
 }
 
 commit_files() {
-  git checkout
   git add ./filters
   git commit --message "[ci skip] Travis build: $TRAVIS_BUILD_NUMBER"
 }
